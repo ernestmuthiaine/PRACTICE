@@ -1,3 +1,5 @@
+#data obtained from https://data.7m.com.cn/matches_data/92/en/index.shtml
+
 #importing the data into R.
 pl<-read.csv(file.choose(),header=T)
 
